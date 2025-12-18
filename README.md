@@ -69,12 +69,6 @@ A **Power BI dashboard** was created to:
 
 ---
 
-## 🔗 Project Links
-- 📂 **GitHub Repository**: _Add your GitHub link here_
-- 📊 **Power BI Dashboard**: _Add Power BI link_
-
----
-
 ## 👤 Author
 **Raihankhan Malek**  
 📧 Email: raihankhanmalek@gmail.com  
